@@ -2,7 +2,8 @@
 
 #### Add a food item and calories to your running total of what you ate.  You can add, update, and delete, as well as clear all items.  Food items are added to local storage as well.
 
-##### UI 
+##### User Interface:
+ 
 ![calorie tracker UI](assets/images/calorieTracker.png "Calorie Tracker UI")
 
 [Check out the page here](https://rachaelwhitefield.github.io/calorieTracker/)
