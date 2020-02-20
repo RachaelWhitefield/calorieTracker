@@ -5,7 +5,7 @@
 [Check out the page here](https://rachaelwhitefield.github.io/calorieTracker/)
 
 
-* Built in absolute vanilla JavaScript only
+* Vanilla JavaScript Only
 
 #### Built With
 * HTML
